@@ -8601,3 +8601,11 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+#headshot{
+	transform: scale(.75);
+	border-radius: 16px;
+}
+#headshot-wrapper{
+	background-color: white;
+}
